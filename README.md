@@ -2,7 +2,7 @@
 
 1. Clone the repository:
 
-   git clone https://github.com/shivanicholkar/rewards-point
+   git clone https://github.com/shivanicholkar/Reward-calculator
 
 2. To run backend:
 

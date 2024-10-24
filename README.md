@@ -1,4 +1,16 @@
-## Installation
+
+created test case files with components
+Components
+
+   CustomersRewards
+ - CustomerRewards.js
+ - CustomersRewards.test.js
+
+   CustomerTable
+ - CustomerTable.js
+ - CustomerTable.test.js
+
+   .....................................
 
 1. Clone the repository:
 
